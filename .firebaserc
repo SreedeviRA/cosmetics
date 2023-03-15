@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "smiles-e3006": {
+      "hosting": {
+        "happysmiles": [
+          "smiles-e3006"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "smiles-e3006"
+  }
+}
